@@ -1,0 +1,16 @@
+{
+  "name": "mow-http",
+  "version": "1.0.0",
+  "description": "a native node server demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "http",
+    "server"
+  ],
+  "author": "Mowtwo",
+  "license": "ISC"
+}
